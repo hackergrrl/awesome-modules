@@ -8,3 +8,7 @@
 - [pbs](https://github.com/mafintosh/pbs)
 - [leveldb](https://github.com/level/level)
 - [browserify](https://npmjs.com/package/browserify)
+
+## license
+
+public domain
